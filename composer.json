@@ -1,0 +1,12 @@
+{
+    "name": "vjik/phpstorm-settings",
+    "authors": [
+        {
+            "name": "Sergey Predvoditelev",
+            "email": "sergey.predvoditelev@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2-coding-standards": "^2.0"
+    }
+}
