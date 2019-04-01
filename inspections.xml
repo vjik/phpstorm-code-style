@@ -2,15 +2,17 @@
     <option name="myName" value="Vjik"/>
     <inspection_tool class="Annotator" enabled="false" level="ERROR" enabled_by_default="false"/>
     <inspection_tool class="HtmlExtraClosingTag" enabled="false" level="WARNING" enabled_by_default="false"/>
-    <inspection_tool class="HtmlFormInputWithoutLabel" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HtmlFormInputWithoutLabel" enabled="false" level="WARNING" enabled_by_default="false"/>
     <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
         <option name="CODING_STANDARD" value="Custom"/>
         <option name="CUSTOM_RULESET_PATH" value="~/vendor/yiisoft/yii2-coding-standards/Yii2/ruleset.xml"/>
         <option name="CHECK_INC" value="false"/>
         <option name="CHECK_JS" value="false"/>
         <option name="CHECK_CSS" value="false"/>
+        <option name="EXTENSIONS" value="php"/>
     </inspection_tool>
     <inspection_tool class="PhpDocMissingThrowsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false"/>
+    <inspection_tool class="PhpFullyQualifiedNameUsageInspection" enabled="false" level="WARNING" enabled_by_default="false"/>
     <inspection_tool class="PhpIllegalPsrClassPathInspection" enabled="true" level="WARNING" enabled_by_default="true"/>
     <inspection_tool class="PhpUndefinedClassInspection" enabled="true" level="WARNING" enabled_by_default="true">
         <option name="DONT_REPORT_MULTI_RESOLVE" value="true"/>
